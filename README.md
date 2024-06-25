@@ -1,2 +1,3 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# dsci-100-project
+Project repository for DSCI-100
+Author: My Lan
